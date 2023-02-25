@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dacc0e18.chunk.css",
+    "main.js": "/static/js/main.99899fbe.chunk.js",
+    "main.js.map": "/static/js/main.99899fbe.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.47a44d58.js",
+    "runtime-main.js.map": "/static/js/runtime-main.47a44d58.js.map",
+    "static/js/2.564fde5d.chunk.js": "/static/js/2.564fde5d.chunk.js",
+    "static/js/2.564fde5d.chunk.js.map": "/static/js/2.564fde5d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.dacc0e18.chunk.css.map": "/static/css/main.dacc0e18.chunk.css.map",
+    "static/js/2.564fde5d.chunk.js.LICENSE.txt": "/static/js/2.564fde5d.chunk.js.LICENSE.txt",
+    "static/media/possibility.css": "/static/media/Bg_downloadapp.f28ed00e.png",
+    "static/media/Client.21153c3e.png": "/static/media/Client.21153c3e.png",
+    "static/media/Dishimg_1.25acd390.png": "/static/media/Dishimg_1.25acd390.png",
+    "static/media/Hero_img.3cabab38.png": "/static/media/Hero_img.3cabab38.png",
+    "static/media/appdesign.d52954e8.png": "/static/media/appdesign.d52954e8.png",
+    "static/media/blogimg_1.79401319.png": "/static/media/blogimg_1.79401319.png",
+    "static/media/blogimg_2.8b6870e4.png": "/static/media/blogimg_2.8b6870e4.png",
+    "static/media/blogimg_3.eb5f4c8d.png": "/static/media/blogimg_3.eb5f4c8d.png",
+    "static/media/blogimg_4.0defd61b.png": "/static/media/blogimg_4.0defd61b.png",
+    "static/media/blogimg_5.21505b06.png": "/static/media/blogimg_5.21505b06.png",
+    "static/media/logo.5114679f.svg": "/static/media/logo.5114679f.svg",
+    "static/media/peoples.224d9087.png": "/static/media/peoples.224d9087.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47a44d58.js",
+    "static/js/2.564fde5d.chunk.js",
+    "static/css/main.dacc0e18.chunk.css",
+    "static/js/main.99899fbe.chunk.js"
+  ]
+}
